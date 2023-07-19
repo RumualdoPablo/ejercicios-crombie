@@ -1,4 +1,4 @@
-// Ejercicio 1
+// Ejercicio 1!
 const alumnos = [
     {
         nombre: "Jose",
